@@ -1,3 +1,4 @@
+// 가위 바위 보
 class Solution2 {
     public String solution(String rsp) {
         String answer = "";
