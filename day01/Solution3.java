@@ -1,4 +1,5 @@
 // 문자열 반복 출력하기
+// 이중 for과 charAt() 함수를 이용하여 문자열 반복 출력
 class Solution3 {
     public String solution(String my_string, int n) {
         String answer = "";

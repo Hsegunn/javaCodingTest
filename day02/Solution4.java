@@ -1,4 +1,5 @@
 //양꼬치
+//산술연산자로 간단한 양꼬치 계산 코딩
 package day02;
 
 class Solution4 {

@@ -1,4 +1,5 @@
 // 옷가게 할인받기
+// if 조건문을 이용하여 옷가게 할인코딩
 class Solution {
     public int solution(int price) {
         if(price >= 500000) {

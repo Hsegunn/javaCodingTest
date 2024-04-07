@@ -1,4 +1,5 @@
 // 가위 바위 보
+// charAt() 함수를 이용하여 간단한 가위바위보 출력
 class Solution2 {
     public String solution(String rsp) {
         String answer = "";
