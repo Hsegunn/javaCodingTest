@@ -1,6 +1,6 @@
 //특정 문자 제거하기
 //replace를 이요한 특정문자 제거
-package day02;
+package week02;
 
 class Solution5 {
     public String solution(String my_string, String letter) {
